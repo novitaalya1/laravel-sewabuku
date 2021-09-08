@@ -1,2 +1,2 @@
-# sewa-buku
+# sewabuku
 Web sederhana untuk mendata penyewaan buku di perpustakaan
